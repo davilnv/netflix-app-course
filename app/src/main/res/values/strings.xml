@@ -6,4 +6,10 @@
     <string name="label_menu_volume">Menu Volume</string>
     <string name="label_menu_avaliacoes">Menu Avaliação</string>
     <string name="label_menu_episodios">Menu Episódios</string>
+    <string name="label_action_voltar">Ação de Voltar</string>
+    <string name="label_action_executar">Ação de Executar</string>
+    <string name="label_action_pausar">Ação de Pausar</string>
+    <string name="description_banner">Imagem de banner da série</string>
+    <string name="value_tempo_inicial">01:30</string>
+    <string name="value_tempo_final">53:01</string>
 </resources>
