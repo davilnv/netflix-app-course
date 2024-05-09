@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Netflix App</string>
     <string name="label_titulo">Stranger Things</string>
+    <string name="label_teporada_ep">S1:E2</string>
+    <string name="label_menu_mensagem">Menu Mensagem</string>
+    <string name="label_menu_volume">Menu Volume</string>
+    <string name="label_menu_avaliacoes">Menu Avaliação</string>
+    <string name="label_menu_episodios">Menu Episódios</string>
 </resources>
